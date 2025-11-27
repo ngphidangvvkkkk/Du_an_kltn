@@ -5,8 +5,7 @@
 
 ## Cài đặt
 1. Clone repository về máy:
-   ```bash
-   git clone https://github.com/ngphidangvvkkkk/Du_an_kltn
+   git clone https://github.com/ngphidangvvkkkk/Du_an_kltn.git
 2. cd Du_an_kltn
 3. 
 4. pip install -r requirement.txt
