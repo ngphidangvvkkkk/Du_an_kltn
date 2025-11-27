@@ -1,0 +1,7 @@
+mtcnn
+tensorflow
+keras
+opencv-python
+numpy
+pillow
+tk
